@@ -59,8 +59,8 @@ Manual resume screening is time-consuming and often inconsistent. This system au
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ai-resume-ats.git
-cd ai-resume-ats
+git clone https://github.com/Navamani5251/ResumeScreening/
+cd ResumeScreening
 2️⃣ Install Dependencies
 bash
 Copy code
